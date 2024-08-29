@@ -1,3 +1,4 @@
+源码地址：https://gitee.com/DedeBIZ/DedeV6/releases/tag/6.3.0
 <img width="646" alt="image" src="https://github.com/user-attachments/assets/f06f11b2-664a-4ee8-941a-77ab6bd5994e">
 
 Admin system -> System Settings -> Admin Management -> Add Admin
